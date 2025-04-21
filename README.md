@@ -6,3 +6,4 @@
  Touche 'F1' -> Démarrer le Jeu.
  Touches Directionnelles -> Déplacer le Joueur.
  Touche 'ESPACE' -> Tirer un Missile Joueur.
+ Touche 'ESCAPE' -> Quitter le Logiciel.
